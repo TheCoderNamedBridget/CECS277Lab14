@@ -2,7 +2,7 @@
 
 
 /*
-Names: Bridget Naylor, Athena Jacob
+Name: Bridget Naylor
 Lab: 14 Puppy Simulator
 Date: 5/3/2021
 
